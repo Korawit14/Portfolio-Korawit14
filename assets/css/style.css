@@ -2555,23 +2555,33 @@ background-clip: border-box;
 }
 .boxes .vertical-line > div:nth-child(1) .blog-dates span {
   color: #fff;
-background-image: linear-gradient(to bottom,#ff5454,#f64242);
-box-shadow: 0 5px 14px 0 #f64242;
+background-image: linear-gradient(to bottom,#A73B24,#a03017);
+box-shadow: 0 5px 14px 0 #a03017;
 }
 .boxes .vertical-line > div:nth-child(2) .blog-dates span {
   color: #fff;
-    background-image: linear-gradient(to bottom,#6e54ff,#6142f6);
-  box-shadow: 0 5px 14px 0 #6142f6;
+    background-image: linear-gradient(to bottom,#ffcb15,#fac504);
+  box-shadow: 0 5px 14px 0 #fac504;
 }
 .boxes .vertical-line > div:nth-child(3) .blog-dates span {
   color: #fff;
-  background-image: linear-gradient(to bottom,#eb54ff,#e242f6);
-  box-shadow: 0 5px 14px 0 #e242f6;
+  background-image: linear-gradient(to bottom,#f98835,#f57a23);
+  box-shadow: 0 5px 14px 0 #f57a23;
 }
 .boxes .vertical-line > div:nth-child(4) .blog-dates span {
   color: #fff;
- background-image: linear-gradient(to bottom,#5d9cec,#4a89dc);
+ background-image: linear-gradient(to bottom,#F7B500,#e6a904);
 box-shadow: 0 5px 14px 0 #4a89dc;
+}
+.boxes .vertical-line > div:nth-child(5) .blog-dates span {
+  color: #fff;
+ background-image: linear-gradient(to bottom,#5CB049,#42a02d);
+box-shadow: 0 5px 14px 0 #42a02d;
+}
+.boxes .vertical-line > div:nth-child(6) .blog-dates span {
+  color: #fff;
+ background-image: linear-gradient(to bottom,#006B3F,#02502f);
+box-shadow: 0 5px 14px 0 #02502f;
 }
 .blog-single-page .right-side .blog-next-prev-page a{
   background-color: transparent;
