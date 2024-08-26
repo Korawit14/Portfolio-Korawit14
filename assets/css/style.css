@@ -2571,7 +2571,7 @@ box-shadow: 0 5px 14px 0 #a03017;
 .boxes .vertical-line > div:nth-child(4) .blog-dates span {
   color: #fff;
  background-image: linear-gradient(to bottom,#F7B500,#e6a904);
-box-shadow: 0 5px 14px 0 #4a89dc;
+box-shadow: 0 5px 14px 0 #e6a904c;
 }
 .boxes .vertical-line > div:nth-child(5) .blog-dates span {
   color: #fff;
